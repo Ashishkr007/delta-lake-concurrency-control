@@ -1,4 +1,5 @@
-# delta-lake-concurrency-control
+# Delta Lake concurrency control
+
 Delta Lake uses optimistic concurrency control to provide transactional guarantees between writes.
 
 optimistic concurrency control is ways to deal with concurrent transaction that making changes to table.
